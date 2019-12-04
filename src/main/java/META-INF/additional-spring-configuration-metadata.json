@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.thymeleaf.profiles",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.thymeleaf.profiles'"
+  },
+  {
+    "name": "spring.thymeleaf.mail",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.thymeleaf.mail'"
+  }
+]}

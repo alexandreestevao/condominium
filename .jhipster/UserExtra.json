@@ -1,0 +1,25 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipType": "one-to-one",
+            "relationshipName": "user",
+            "otherEntityName": "user",
+            "otherEntityField": "id",
+            "ownerSide": true,
+            "otherEntityRelationshipName": "userExtra"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "phone",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20191130021936",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "user_extra",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}

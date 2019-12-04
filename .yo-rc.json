@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.condominium",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "monolith",
+    "baseName": "condominium",
+    "packageName": "com.condominium",
+    "packageFolder": "com/condominium",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmMxNzRiMzk5NzI2NDYyNzNiNDk2ZDA0NWE5ODRmMDAxNjZhY2UzNWE5ZjljMjkzNmQ2YjNkMzUwZjI2YTZlNjIyNWM5MDhjYjM3ZDg4ZWY1NGFkODY2NzI3NWM5OTFjNTc1Y2E4YzNkZTJmY2JkZjQ3YWQzMjU5Mjg5MDIwMDA=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": ["pt-br", "en"],
+    "blueprints": []
+  }
+}
